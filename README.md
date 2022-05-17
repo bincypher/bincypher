@@ -4,7 +4,7 @@ Hi 👋 My name is BinayakBidyasagar
 Developer
 ---------
 
-I have been enthusiast about coding from last 3 years. Started my career as a Digital marketing intern and learnt to use CMS but, It bothered me to get control over what i am creating as a web dev engineer so I moved ahead to Learn about HTML,CSS, JavaScript. After knowing JavaScript I became more enthusiast about React and Node and other frameworks.
+I have been enthusiast about coding from last 3 years. Started my career as a Digital marketing intern and learnt to use CMS but, It bothered me, to get control over what i am creating as a web dev engineer so I moved ahead to Learn about HTML,CSS, JavaScript. After knowing JavaScript I became more enthusiast about React and Node and other frameworks.
 
 * 🌍  I'm based in Bhubaneswar
 * ✉️  You can contact me at [binayak.bidyasagar99@gmail.com](mailto:binayak.bidyasagar99@gmail.com)
