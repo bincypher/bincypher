@@ -8,7 +8,7 @@ I have been enthusiast about coding from last 3 years. Started my career as a Di
 
 * 🌍  I'm based out of Hyderabad
 * ✉️  You can contact me at [binayak.bidyasagar99@gmail.com](mailto:binayak.bidyasagar99@gmail.com)
-* 🚀  I'm currently working as [Senior Systems Engineer](https://www.infosys.com/)
+* 🚀  I'm currently working as [Technology Analyst](https://www.infosys.com/)
 * 🧠  I'm learning Node Js, VueJs, ReactJS
 * 🤝  I'm open to collaborating on Any coding projects which could get me to work on latest technologies and get me some new skill.
 * ⚡  An writer and foodie
