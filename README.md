@@ -1,15 +1,15 @@
-Hi 👋 My name is BinayakBidyasagar
+Hi 👋 My name is Binayak Bidyasagar
 ==================================
 
 Developer
 ---------
 
-I have been enthusiast about coding from last 3 years. Started my career as a Digital marketing intern and learnt to use CMS but, It bothered me, to get control over what i am creating as a web dev engineer so I moved ahead to Learn about HTML,CSS, JavaScript. After knowing JavaScript I became more enthusiast about React and Node and other frameworks.
+I have been enthusiast about coding. Started my career as a Digital marketing intern and learnt to use CMS but, It bothered me, to get control over what i am creating as a web dev engineer so I moved ahead to Learn about HTML,CSS, JavaScript. After knowing JavaScript I became more enthusiast about React and Node and other frameworks.
 
-* 🌍  I'm based out of Hyderabad
+* 🌍  I'm based out of Hyderabad, Born and brought up at Bhubaneswar, Odisha.
 * ✉️  You can contact me at [binayak.bidyasagar99@gmail.com](mailto:binayak.bidyasagar99@gmail.com)
-* 🚀  I'm currently working as [Technology Analyst](https://www.infosys.com/)
-* 🧠  I'm learning Node Js, VueJs, ReactJS
+* 🚀  I'm currently working as [Technology Lead](https://www.infosys.com/)
+* 🧠  I'm learning Node Js, ReactJS
 * 🤝  I'm open to collaborating on Any coding projects which could get me to work on latest technologies and get me some new skill.
 * ⚡  An writer and foodie
 
