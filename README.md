@@ -1,48 +1,121 @@
-Hi 👋 My name is Binayak Bidyasagar
-==================================
+<h1 align="center">Hi 👋, I'm Binayak Bidyasagar</h1>
+<h3 align="center">Technology Lead | Backend Developer | API & Enterprise Systems Specialist</h3>
 
-Developer
----------
+---
 
-I have been enthusiast about coding. Started my career as a Digital marketing intern and learnt to use CMS but, It bothered me, to get control over what i am creating as a web dev engineer so I moved ahead to Learn about HTML,CSS, JavaScript. After knowing JavaScript I became more enthusiast about React and Node and other frameworks.
+## 👨‍💻 About Me
 
-* 🌍  I'm based out of Hyderabad, Born and brought up at Bhubaneswar, Odisha.
-* ✉️  You can contact me at [binayak.bidyasagar99@gmail.com](mailto:binayak.bidyasagar99@gmail.com)
-* 🚀  I'm currently working as [Technology Lead](https://www.infosys.com/)
-* 🧠  I'm learning Node Js, ReactJS
-* 🤝  I'm open to collaborating on Any coding projects which could get me to work on latest technologies and get me some new skill.
-* ⚡  An writer and foodie
+- 🚀 Technology Lead with **4+ years of experience** in building and optimizing enterprise applications  
+- 💡 Specialized in **Node.js, REST APIs, STARLIMS, and system integrations**  
+- 🔧 Strong focus on **automation, backend architecture, and scalable systems**  
+- 📍 Based in Hyderabad | Originally from Bhubaneswar, Odisha  
+- 📈 Improved system efficiency by **30–40% via automation & integrations**  
+- ⚡ Passionate about **clean code, performance optimization, and real-world problem solving**
 
-<a href="https://www.twitter.com/binayak99" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/binayak99?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/bincypher" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bincypher?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Skills
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+### 💻 Languages
+- JavaScript (ES6+)
+- STARLIMS Scripting
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST API Development
+
+### 🗄️ Databases
+- MongoDB
+- SQL
+
+### 🌐 Frontend
+- HTML5
+- CSS3
+
+### 🏢 Enterprise & Tools
+- STARLIMS
+- ServiceNow
+- Veeva Vault
+- Scitara
+- Microsoft Power Automate
+
+### 🔄 Core Concepts
+- Data Structures & Algorithms
+- API Design
+- Asynchronous Programming
+- System Integration
+
+### 🔧 Dev Tools
+- Git
+- GitHub
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Technology Lead — Infosys Ltd.  
+📅 June 2022 – Present | 📍 Hyderabad, India  
+
+- 🔧 Designed and customized **STARLIMS enterprise solutions**, improving workflow efficiency  
+- 🔗 Built and integrated **REST APIs** with systems like Empower CDS, Scitara, SmartDoc  
+- 📊 Reduced system redundancy by **30%** via seamless integrations  
+- ⚡ Automated workflows using Power Automate, reducing manual effort by **30–40%**  
+- 🧠 Developed data reprocessing scripts handling **4000+ records**, saving **9 hrs/week**  
+- 📦 Managed end-to-end CR lifecycle using ServiceNow (GxP compliant)  
+- 📑 Maintained regulatory documentation using Veeva Vault  
+- 🏗️ Built scalable backend solutions using **JavaScript, SQL, API architecture**
+
+---
+
+### 🏢 Software Engineer — Profecia Links  
+📅 May 2021 – May 2022 | 📍 Pune, India  
+
+- 🌐 Developed **web scraping solutions** using Node.js  
+- 🔗 Integrated REST APIs for **data-driven applications**  
+- 🐞 Resolved production issues, improving system reliability  
+- ✅ Performed unit testing & SQL validation  
+- 🤝 Worked in Agile teams using GitHub & JIRA  
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🧠 Infosys Certified IoT Professional  
+- 🤖 Microsoft Learn:
+  - Generative AI Concepts  
+  - Power Automate  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bincypher&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bincypher&theme=tokyonight&hide_border=true" />
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/bincypher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://@codybinu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/binayak-bidyasagar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15190290/codybinu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/binayak99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## 🌐 Connect With Me
 
-### Badges
+- 💼 LinkedIn: https://linkedin.com/in/binayak-bidyasagar  
+- 💻 GitHub: https://github.com/bincypher  
+- 📧 Email: binayak.bidyasagar99@gmail.com  
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/bincypher"><img src="https://github-readme-stats.vercel.app/api?username=bincypher&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="codybinu's GitHub stats" /></a>
+## 🤝 Open to Opportunities
 
-<a href="http://www.github.com/bincypher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bincypher&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+💡 I’m actively looking to collaborate on:
+- Backend development projects  
+- API-driven systems  
+- Automation & workflow optimization  
+- Full-stack applications  
 
-<a href="http://www.github.com/bincypher"><img src="https://activity-graph.herokuapp.com/graph?username=bincypher&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/bincypher" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bincypher&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+⭐ *“Building scalable systems that solve real-world problems.”*
